@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ericjohnson00
+- 👋 Hi, I’m Eric Johnson
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning html css javascript.
 - 💞️ I’m looking to collaborate on any projects at the moment.
 - 📫 ericjohnson8055@gmail.com
 
