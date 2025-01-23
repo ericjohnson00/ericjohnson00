@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric Johnson
-- 👀 I’m interested in web development & 2d games.
-- 🌱 I’m currently learning html css javascript & python.
-- 💞️ I’m looking to collaborate on any projects at the moment.
+- 👀 I’m interested in AI and 2d Games.
+- 🌱 I’m currently playing with javascript & python.
+moment.
 - 📫 ericjohnson8055@gmail.com
 
 <!---
